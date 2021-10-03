@@ -7,7 +7,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 ## Links
 
 - URL repo: https://github.com/J-B-R-93/Huddle-Landing-Page.git
-- Live site:
+- Live site: https://j-b-r-93.github.io/Huddle-Landing-Page/
 
 ## Process
 
