@@ -28,7 +28,12 @@ The aim for this challenge is to practice flexbox, background images and respons
 
 ## Links
 
+<<<<<<< HEAD
 - **Solution URL:** https://github.com/J-B-R-93/Huddle-Landing-Page.git
+=======
+- URL repo: https://github.com/J-B-R-93/Huddle-Landing-Page.git
+- Live site: https://j-b-r-93.github.io/Huddle-Landing-Page/
+>>>>>>> 00b95545e8cc6ce95694e46ab55fcf6ba21a6900
 
 - **Live Site URL:** https://j-b-r-93.github.io/Huddle-Landing-Page/
 
